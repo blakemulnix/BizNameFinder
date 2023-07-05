@@ -2,3 +2,4 @@ venv/
 .vscode/
 *.txt
 *.xlsx
+api_key.txt
